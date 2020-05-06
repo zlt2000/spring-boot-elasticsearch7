@@ -1,4 +1,8 @@
 #  Spring Boot 集成 Elasticsearch 7.x + XPACK
+GitChat的源码：https://gitbook.cn/gitchat/activity/5eb14213e90db13e2ff703e6
+
+
+
 开源的 `Elasticsearch` 是一个分布式的 `RESTful` 风格的搜索和数据分析引擎，是目前全文搜索引擎的首选。
 
 网上关于集成 `ElasticSearch` 的教程大部都是讲使用 `TransportClient` 的，但是该客户端本身并不支持 `XPACK` 安全认证需要引入其他依赖扩展，同时在 `ElasticSearch7` 的版本中已被废弃，并且会在8.x版本中将被移除，官方建议使用：`High Level REST Client`。
@@ -14,3 +18,4 @@
 * 使用 `Spring Data Elasticsearch` 对索引数据的基本 CRUD 操作
 * 使用 `Junit4` 编写所有方法的测试用例
 * 以上内容的所有源码
+
