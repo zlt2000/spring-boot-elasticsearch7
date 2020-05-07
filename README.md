@@ -1,6 +1,8 @@
 #  Spring Boot 集成 Elasticsearch 7.x + XPACK
 GitChat的源码：https://gitbook.cn/gitchat/activity/5eb14213e90db13e2ff703e6
 
+![](https://github.com/zlt2000/spring-boot-elasticsearch7/blob/master/images/sb-es7.jpg)
+
 
 
 开源的 `Elasticsearch` 是一个分布式的 `RESTful` 风格的搜索和数据分析引擎，是目前全文搜索引擎的首选。
