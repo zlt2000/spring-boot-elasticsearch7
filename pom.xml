@@ -15,7 +15,7 @@
         <java.version>8</java.version>
 
         <spring-boot-dependencies.version>2.2.6.RELEASE</spring-boot-dependencies.version>
-        <elasticsearch.version>7.6.2</elasticsearch.version>
+        <elasticsearch.version>7.14.0</elasticsearch.version>
     </properties>
 
     <dependencies>
